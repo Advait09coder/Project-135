@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 25px;
+}
+
+p{
+    font-size: 16px;
+    color: black;
+}
+
+.start,#status,#object_found{
+    font-size: 20px;
+}
+
+canvas{
+    border: 5px solid rebeccapurple;
+    border-radius: 19px;
+    box-shadow: 4px 4px red;
+}
